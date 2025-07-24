@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 ### Hi there 👋, my name is Quân Nguyễn
 
 ---
