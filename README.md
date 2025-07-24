@@ -1,9 +1,10 @@
-![Profile Views](https://komarev.com/ghpvc/?username=mquanng&color=blue)
+
 ### Hi there 👋, my name is Quân Nguyễn
 
 ---
 
 ## 🧠 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=mquanng&color=blue)
 
 🗺️ I'm from Vietnam, currently a frontend dev!  
 💻 I enjoy building apps, exploring open source, and learning JS/React/Node.  
