@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there 👋, my name is Quân Nguyễn
 
-<!--
-**mquanng/mquanng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗺️ I'm from Vietnam, currently a frontend dev!  
+💻 I enjoy building apps, exploring open source, and learning JS/React/Node.  
+🧘 I also like reading, music, and chilling with matcha 🍵.  
+
+---
+
+## 🛠️ I’m currently working on
+
+![Project 1](https://img.icons8.com/color/48/000000/react-native.png)
+![Project 2](https://img.icons8.com/color/48/000000/firebase.png)
+![Project 3](https://img.icons8.com/color/48/000000/mysql.png)
+
+---
+
+## 🌱 I’m currently learning
+
+🇨🇳 Chinese (汉语)  
+
+---
+
+## 📬 How to reach me
+
+[![Email](https://img.shields.io/badge/Email-yellow?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
